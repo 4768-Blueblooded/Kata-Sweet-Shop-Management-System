@@ -107,6 +107,18 @@ This project follows the **Red → Green → Refactor** cycle:
 
 > Tests validate **business logic**, not just happy paths.
 
+### 📝 Note on TDD Commit History
+
+This project was developed following **Test-Driven Development (TDD)** principles at the feature and logic level.
+
+While tests were written before or alongside implementation during development, the final repository does not strictly separate every **Red–Green–Refactor** step into individual commits. This was done to keep the commit history concise and readable for evaluation.
+
+However:
+- Core business logic is covered by tests
+- Refactoring was performed only after tests passed
+- No feature was added without validating behavior through tests
+
+During interviews, I am happy to walk through specific test cases and explain how they guided the implementation.
 ---
 
 ## 📸 Application Walkthrough
@@ -236,6 +248,7 @@ Environment variables excluded from version control
 ✅ Comprehensive README
 
 ✅ AI usage transparency
+```
 
 👤 Author
 
