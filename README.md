@@ -118,9 +118,6 @@ However:
 - Refactoring was performed only after tests passed
 - No feature was added without validating behavior through tests
 
-During interviews, I am happy to walk through specific test cases and explain how they guided the implementation.
----
-
 ## 📸 Application Walkthrough
 
 > Click images to view full size.
