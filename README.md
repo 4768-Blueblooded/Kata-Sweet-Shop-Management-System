@@ -254,5 +254,3 @@ Abir Chakraborty
 GitHub: https://github.com/4768-Blueblooded
 
 LinkedIn: https://linkedin.com/in/abir-chakraborty-53390926a
-
-Resume: https://drive.google.com/file/d/1jw3ZsBqdmnaTOTBuac2wZh9ttKRzzWQP/view
